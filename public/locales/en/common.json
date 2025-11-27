@@ -1,0 +1,58 @@
+{
+  "siteTitle": "Return in Islam Foundation",
+  "nav": {
+    "home": "Home",
+    "articles": "Articles",
+    "donate": "Donate",
+    "about": "About",
+    "prayerTimes": "Prayer Times",
+    "shop": "Shop",
+    "quran": "Quran",
+    "dua": "Dua",
+    "hadith": "Hadith",
+    "cart": "Cart",
+    "admin": "Admin"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "tagline": "Return of the soul"
+  },
+  "shop": {
+    "searchPlaceholder": "Search products...",
+    "allCategories": "All categories",
+    "prev": "Prev",
+    "next": "Next",
+    "addToCart": "Add to cart",
+    "notFound": "Product not found"
+  },
+  "cart": {
+    "empty": "Your cart is empty",
+    "remove": "Remove",
+    "checkout": "Proceed to Checkout"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "note": "You will be redirected to Stripe to complete payment.",
+    "processing": "Processing…",
+    "payWithStripe": "Pay with Stripe",
+    "success": "Payment successful",
+    "thanks": "Thank you for your support"
+  },
+  "auth": {
+    "signup": "Sign up",
+    "login": "Login",
+    "processing": "Processing…",
+    "checkEmail": "Check your email for confirmation"
+  },
+  "admin": {
+    "products": "Products Management",
+    "create": "Create",
+    "saving": "Saving…"
+  },
+  "footer": {
+    "copy": "© Return in Islam Foundation"
+  },
+  "articles": {
+    "notFound": "Article not found"
+  }
+}
